@@ -1,0 +1,28 @@
+@font-face {
+   font-family: 'Cantarell';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/danielpina/Documents/estyajoza/fonts/Cantarell/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Cantarell';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/danielpina/Documents/estyajoza/fonts/Cantarell/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Cantarell';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/danielpina/Documents/estyajoza/fonts/Cantarell/italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Cantarell';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/danielpina/Documents/estyajoza/fonts/Cantarell/700italic.ttf') format('truetype');
+}

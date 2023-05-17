@@ -26,7 +26,7 @@ body {
   font-size: 1.375rem;
 }
 .display-5 {
-  font-family: 'Cantarell', sans-serif;
+  font-family: 'Surveyor Display Medium Regular';
   font-size: 1.4rem;
   line-height: 1.5;
 }
@@ -704,40 +704,6 @@ a {
 .cid-sFHoAfPmXB .mbr-section-btn {
   color: #ffffff;
 }
-.cid-tAAogmnkLr {
-  padding-top: 4rem;
-  padding-bottom: 0rem;
-  background-color: #fff5f0;
-}
-.cid-tAAogmnkLr .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tAAogmnkLr .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-tAApHfqLe3 {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #fff5f0;
-}
-.cid-tAApHfqLe3 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tAApHfqLe3 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
 .cid-tAAq1s5lgB {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -765,6 +731,12 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-tAAvdAYK80 .mbr-section-subtitle DIV {
+  text-align: center;
+}
+.cid-tAAvdAYK80 .mbr-section-subtitle {
+  color: #232323;
 }
 .cid-tk537dpgyw {
   padding-top: 10rem;
